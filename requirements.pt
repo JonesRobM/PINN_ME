@@ -1,0 +1,54 @@
+torch>=1.13.0
+torchvision>=0.14.0
+numpy
+scipy
+matplotlib
+pyyaml
+tqdm
+scikit-learn
+pandas 
+requests
+opencv-python
+# Optional dependencies
+tensorboard
+# For testing purposes
+pytest
+# For visualization
+plotly
+# For data handling
+pillow
+# For distributed training
+torch-multiprocessing
+# For model quantization
+torch-quantization
+# For model pruning
+torch-pruning
+# For model compression
+torch-compression
+# For model deployment
+torchserve
+# For model optimization
+torch-optimizer
+# For model interpretability
+torch-interpret
+# For model debugging
+torch-debug
+# For model serving
+torch-serving
+# For model evaluation
+torch-eval
+# For model monitoring
+torch-monitor
+# For model profiling
+torch-profile
+# For model visualization
+torch-visualization
+# For model deployment on edge devices
+torch-edge
+# For model deployment on mobile devices
+torch-mobile
+# For model deployment on web applications
+torch-web
+# For model deployment on cloud platforms
+torch-cloud
+# For model deployment on IoT devices
